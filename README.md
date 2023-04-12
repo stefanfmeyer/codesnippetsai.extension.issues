@@ -4,6 +4,8 @@ Hi! I'm Stefan, the full-time solo creator/founder of Code Snippets. I hope you 
 
 If you have any issues or would like some support, please [Join the Discord](https://discord.gg/GVg7Xx5QVw) before writing a review!
 
+If you prefer using GitHub issue reporting, you can report issues on the dedicated Repository [Report an Issue](https://github.com/stefanfmeyer/codesnippetsai.extension.issues/issues)
+
 #### NEW in v1.0.4
 
 You can now continue the conversation with follow-up questions to the AI 💬
