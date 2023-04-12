@@ -1,0 +1,1 @@
+# codesnippetsai.extension.issues
