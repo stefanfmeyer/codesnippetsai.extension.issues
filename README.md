@@ -1,11 +1,5 @@
 <div align="center">
 
-<div align="center" style="max-width:60px; margin-top:40px">
-
-![](https://codesnippets.ai/_next/image?url=%2Fassets%2Fimages%2Flogo-mini.png&w=640&q=75)
-
-</div>
-
 # **Code Snippets AI**
 
 <div style="margin-top:40px">
